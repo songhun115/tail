@@ -1,5 +1,6 @@
 /*! common*/
-.company-name span {font-family: 'EB Garamond', serif; font-size: 1.8em; font-weight: 400; z-index: 999;}
+.company-name span {font-family: 'EB Garamond', serif; font-size: 1.8em; font-weight: 400; }
+.company-name{z-index: 999;}
 .footer,.sec02-right-txt, .sec03-right-txt, .sec06-right-box-con h2, .sec06-left-box-con h2{font-family: 'EB Garamond', serif;}
 .sec06-right-box-con p, .sec06-left-box-con p{font-family: 'EB Garamond', serif;
     font-family: 'Rajdhani', sans-serif;}
